@@ -1,4 +1,4 @@
-# GA4 Event Parameters Data Check
+# GA4 Event Parameters Data Checker
 
 A BigQuery Studio Notebook to simplify the analysis of Google Analytics 4 (GA4) event parameters.
 
